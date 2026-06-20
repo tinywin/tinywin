@@ -16,19 +16,9 @@
 laura = {
     "localização": "Tocantins, Brasil 🇧🇷",
     "formação": "Universidade Federal do Tocantins (UFT)",
-    "focos": ["Cibersegurança", "Python", "Desenvolvimento assistido por IA"],
-    "estudando_agora": ["Defesa em profundidade", "Arquitetura DMZ", "Cursor + IA"],
     "curiosidade": "Trocando o dia pela noite",
 }
 ```
-
----
-
-## 🔐 Em foco
-
-- **Cibersegurança** — fundamentos de defesa em profundidade, arquitetura de rede (DMZ), resposta a incidentes e análise de custo de vazamento de dados
-- **Python + IA** — desenvolvimento assistido por IA (Cursor, Composer), automação e boas práticas de código
-- Sempre testando ferramentas novas e documentando o que aprendo
 
 ---
 
