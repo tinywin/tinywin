@@ -30,17 +30,6 @@ laura = {
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=tinywin&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=3b82f6&text_color=a0aec0&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinywin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=a0aec0&langs_count=6" />
-
-</div>
-
----
-
 ## 📬 Onde me encontrar
 
 <div align="center">
